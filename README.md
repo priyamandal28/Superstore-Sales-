@@ -1,4 +1,4 @@
-# Superstore-Sales-
+# Superstore-Sales-POWERBI DASHBOARD AND SALES FORECASTING DATA ANALYTICS
 POWERBI Dashboard
 Objective:
  The goal of this assignment is to assess your ability to clean and transform data, build meaningful
