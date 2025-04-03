@@ -19,10 +19,3 @@ TASKS:
  4. Add slicers for Date Range, Region, Customer Segment, and Product Category.
  5. Implement drill-through or tooltip features.
  6. Summarize key insights and provide business recommendations.
-
-
-This assignment is structured into two parts:
-1. Data Processing and Feature Engineering (Day 1) - Cleaning, transforming, and exploring the dataset.
-2. Model Selection, Forecasting, and Evaluation (Day 2) - Training different forecasting models, comparing their performance,
-and presenting insights.
-
