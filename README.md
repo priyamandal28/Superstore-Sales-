@@ -1,4 +1,4 @@
-# Superstore-Sales-POWERBI DASHBOARD AND SALES FORECASTING DATA ANALYTICS
+# Superstore-Sales-POWERBI DASHBOARD 
 POWERBI Dashboard
 Objective:
  The goal of this assignment is to assess your ability to clean and transform data, build meaningful
@@ -20,12 +20,6 @@ TASKS:
  5. Implement drill-through or tooltip features.
  6. Summarize key insights and provide business recommendations.
 
-DATA ANALYTICS:
-In this assignment, you will work with real-world retail sales data
-to develop a forecasting model that predicts future sales for thousands of product families across different stores in Ecuador.
-
-This project will help you understand how external factors like promotions, holidays, economic conditions, and events
-impact sales, and how machine learning models can be used to improve demand forecasting.
 
 This assignment is structured into two parts:
 1. Data Processing and Feature Engineering (Day 1) - Cleaning, transforming, and exploring the dataset.
